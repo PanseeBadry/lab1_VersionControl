@@ -7,11 +7,6 @@
 
 We are **five girls** exploring Git together! 💪✨  
 Welcome! 👋 This repository is for experimenting and learning Git. 🛠️
->>>>>>> 801ba4b (update README.md)
-
-### 👩‍💻 Who are we?
-
-We are **six girls** exploring Git together! 💪✨
 
 ### 📌 Purpose
 
