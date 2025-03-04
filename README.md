@@ -3,7 +3,7 @@
 Welcome! 👋 This repository is for experimenting and learning Git. 🛠️  
 
 ### 👩‍💻 Who are we?  
-We are **six girls** exploring Git together! 💪✨  
+We are **five girls** exploring Git together! 💪✨  
 
 ### 📌 Purpose  
 - Try out Git commands without fear! 😆  
