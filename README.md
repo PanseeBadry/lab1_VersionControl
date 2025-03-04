@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### 👩‍💻 Who are we?  
 We are **five girls** exploring Git together! 💪✨  
 =======
@@ -11,6 +12,8 @@ Welcome! 👋 This repository is for experimenting and learning Git. 🛠️
 >>>>>>> c01caa0 (add image to readme)
 =======
 
+=======
+>>>>>>> d5e55bf (uppdate in REEDME.md)
 ### 👩‍💻 Who are we?
 
 We are **five girls** exploring Git together! 💪✨  
