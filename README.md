@@ -1,19 +1,8 @@
 ## 🎯 Git Playground
 
 ![agitHub icon](https://cdn-icons-png.flaticon.com/512/25/25231.png)
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-### 👩‍💻 Who are we?  
-We are **five girls** exploring Git together! 💪✨  
-=======
-Welcome! 👋 This repository is for experimenting and learning Git. 🛠️
->>>>>>> c01caa0 (add image to readme)
-=======
 
-=======
->>>>>>> d5e55bf (uppdate in REEDME.md)
 ### 👩‍💻 Who are we?
 
 We are **five girls** exploring Git together! 💪✨  
